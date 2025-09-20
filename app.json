@@ -27,7 +27,7 @@
     
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
+      "required": true,
       "value": "994405362578"
     }, 
     
@@ -39,13 +39,13 @@
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
-      "required": false,
+      "required": true,
       "value": "."
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
-      "required": false,
+      "required": true,
       "value": "public"   
     },
     
@@ -170,7 +170,7 @@
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
