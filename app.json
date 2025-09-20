@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~EeVPia5k2rZ42PTU9lSt"
     },  
     
     "STICKER_NAME": {
@@ -28,7 +28,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "994405362578"
     }, 
     
     "MENU_IMAGE_URL": {
